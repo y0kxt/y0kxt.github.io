@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://app.ace.com.bd"
 
 ################
 # --- Logo --- #
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: zuhaworld
+  github: y0kxt
+  twitter: zuhaworldt
   patreon: DeanAttali
-  youtube: c/daattali
+  youtube: zuhaworld
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -80,7 +80,7 @@ social-network-links:
 #  gitlab: yourname
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+# The URL for the feed will be https://y0kxt.github.io/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
