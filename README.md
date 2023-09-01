@@ -1,11 +1,8 @@
 # y0kxt.github.io
 
-<div class="text-center">
-  <h2>Welcome to us!</h2>
-  <h2>This is an open site!</h2>
-  <br/>
+### Welcome to us!
+  This is an open site!
 
-  <img src="{{ 'assets/img/y0kxtsite.png' | relative_url }}" alt="y0kxtsite" />
-</div>
+![y0kxtsite](y0kxtsite.png)
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
